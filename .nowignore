@@ -1,0 +1,6 @@
+.build
+.cache
+.github
+.ignore
+.reports
+src/.generated/latest
